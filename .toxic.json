@@ -1,1 +1,8 @@
-{}
+{
+  "messages": {
+    "ex": "Oh noes!"
+  },
+  "checks": {
+    "delme2()": "ex"
+  }
+}
