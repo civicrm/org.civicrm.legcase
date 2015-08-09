@@ -2,6 +2,8 @@
 
 require_once 'legcase.civix.php';
 
+function delme2() {}
+
 /**
  * Implementation of hook_civicrm_config
  */
