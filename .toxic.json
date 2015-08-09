@@ -1,0 +1,8 @@
+{
+  "templates": {
+    "ex": "Oh noes! {SYMBOLS}!!"
+  },
+  "checks": {
+    "delme2()": "ex"
+  }
+}
