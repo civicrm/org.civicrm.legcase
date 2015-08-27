@@ -2,6 +2,8 @@
 
 require_once 'legcase.civix.php';
 
+function delme2() {}
+
 /**
  * Implementation of hook_civicrm_config
  */
@@ -15,6 +17,7 @@ function legcase_civicrm_config(&$config) {
  * @param $files array(string)
  */
 function legcase_civicrm_xmlMenu(&$files) {
+  // fire away!
   _legcase_civix_civicrm_xmlMenu($files);
 }
 

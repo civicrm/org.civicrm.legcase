@@ -1,0 +1,9 @@
+{
+  "templates": {
+    "ex": "Oh noes! {SYMBOLS}!!"
+  },
+  "checks": {
+    "legcase_civicrm_xmlMenu()": "ex",
+    "delme2()": "ex"
+  }
+}
